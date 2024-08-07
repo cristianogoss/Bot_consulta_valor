@@ -1,6 +1,6 @@
 # Automação de Consulta de Preços
 
-Este projeto é um script em Python que automatiza a consulta de preços do Cimento no site da Tumelero e atualiza uma planilha Excel com os preços coletados a cada 30 minutos.
+Este projeto é um script em Python que automatiza a consulta de preços do Cimento no site da Tumelero Materiais para Construção, e atualiza uma planilha Excel com os preços coletados a cada 30 minutos.
 
 ## Funcionalidades
 
