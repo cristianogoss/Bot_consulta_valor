@@ -28,9 +28,9 @@ Este projeto é um script em Python que automatiza a consulta de preços do Cime
   - `openpyxl`
   - `schedule`
 
-## Instale as dependências
+### Instale as dependências
 pip install -r requirements.txt
 
-## Execute o script
+### Execute o script
 python app.py
 
