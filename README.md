@@ -23,9 +23,8 @@ Este projeto é um script em Python que automatiza a consulta de preços do Cime
 
 - Python 3.x
 - Bibliotecas:
-  - `requests`
-  - `beautifulsoup4`
-  - `pandas`
+  - `selenium`
+  - `datetime`
   - `openpyxl`
   - `schedule`
 
